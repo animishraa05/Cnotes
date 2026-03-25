@@ -3,12 +3,12 @@ title: animesh's brain
 tags: []
 ---
 
-# hey, I'm animesh 
+# Hey, I'm Animesh 
 
-> MCA student at IIPS DAVV · currently breaking things with Python and AI
+> Integrated Postgrad student at IIPS DAVV · Just My way to post things that I learn So I can come back to it
 
-I'm a developer from Indore working across backend systems, generative AI,
-and anything that involves making computers do interesting things.
+I'm a developer from Indore working across backend systems, AI, System Design
+and anything that involves learning in depth.
 
 and this is where I document everything I pick up along the way.
 
@@ -16,9 +16,9 @@ and this is where I document everything I pick up along the way.
 
 ## what I'm doing
 
-- **studying** — DSA, system design, computer networks
+- **studying** — DSA, system design, computer networks, Computer Architecture, Mathematics, Digital Logics, backend, theory of computation, C, operating systems, Databases internals, Compiler Design.
 - **building** — random projects that scratch my own itch
-- **reading** — anything about distributed systems and ML internals
+- **reading** — lots of articles, [The art of doing science and engineering](https://worrydream.com/refs/Hamming_1997_-_The_Art_of_Doing_Science_and_Engineering.pdf), [The Prince](https://apeiron.iulm.it/retrieve/handle/10808/4129/46589/Machiavelli%2C%20The%20Prince.pdf)
 
 ---
 
@@ -33,18 +33,6 @@ and this is where I document everything I pick up along the way.
 | [[djangointernals\| django]] | django internals deep dive |
 
 ---
-
-##  things I've shipped
-
-**Arogya Setu** 
-Multi-tenant backend for real-time health outbreak alerts with
-geospatial visualization and local LLM inference via Ollama.
-`Django · Redis · Celery · Llama 3 · React`
-
-**Mental Health Quiz Platform**
-Scaled to 300+ users in launch month. Full stack assessment platform
-with secure auth and admin data exports.
-`Next.js 14 · Supabase · TypeScript · Tailwind`
 
 ---
 
@@ -67,4 +55,4 @@ tools       →  Docker · PostgreSQL · Git · Linux · Neovim
 
 ---
 
-*· basketball team captain · building in public*
+*· Get busy livin' or get busy dyin'*
